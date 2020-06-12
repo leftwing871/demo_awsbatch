@@ -1,1 +1,1 @@
-Simmple jar for test on AWS Batch
+Simple Maven project for testing AWS Batch
