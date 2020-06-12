@@ -1,1 +1,1 @@
-# demo_awsbatch
+Simmple jar for test on AWS Batch
